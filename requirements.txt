@@ -1,0 +1,5 @@
+openai
+termcolor
+python-dotenv
+requests
+scikit-learn
