@@ -1,7 +1,7 @@
 # LoReHM
 Official PyTorch implementation for the paper - **Towards Low-Resource Harmful Meme Detection with LMM Agents**.
 
-(**EMNLP 2024**: *The 2024 Conference on Empirical Methods in Natural Language Processing, Nov 2024, Miami, Florida*.) [[`paper`](https://arxiv.org/pdf/2411.05383)]
+(**EMNLP 2024**: *The 2024 Conference on Empirical Methods in Natural Language Processing, Nov 2024, Miami, Florida*.) [[`paper`](https://aclanthology.org/2024.emnlp-main.136.pdf)]
 
 ## Install
 
