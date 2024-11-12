@@ -36,3 +36,15 @@ python main.py \
 --rsa \
 --mia
 ```
+
+## Citation
+
+```
+@inproceedings{huang2024towards,
+  title={Towards Low-Resource Harmful Meme Detection with LMM Agents},
+  author={Huang, Jianzhao and Lin, Hongzhan and Ziyan, Liu and Luo, Ziyang and Chen, Guang and Ma, Jing},
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages={2269--2293},
+  year={2024}
+}
+```
