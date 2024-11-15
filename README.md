@@ -20,10 +20,10 @@ pip install -r requirements.txt
 
 ## Dataset
 
-Please obtain FHM, harM, and MAMI, and place them in the following directories: 
+Please obtain FHM, HarM, and MAMI, and place them in the following directories: 
 
 - LoReHM/datasets/FHM
-- LoReHM/datasets/HarM
+- LoReHM/datasets/harmC
 - LoReHM/datasets/MAMI
 
 ## Inference
